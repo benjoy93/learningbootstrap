@@ -39,6 +39,14 @@ h4 {
     font-size: 18px;
 }
 
+p {
+    margin: 0 0 15px;
+}
+
+p.lead {
+    font-weight: normal;
+}
+
 a:link, a:visited {
     color: #dd5638;
 }
