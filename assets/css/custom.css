@@ -230,6 +230,21 @@ section h3 {
     margin: 0 0 20px;
 }
 
+#instructor .num {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    height: 140px;
+    width: 140px;
+    text-align: center;
+    background: #dd5638;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+
 /* CUSTOM ICON SPRITES */
 
 i.ci {
