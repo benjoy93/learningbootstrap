@@ -302,6 +302,26 @@ section h3 {
     border-radius: 50%;
 }
 
+#signup {
+    text-align: center;
+    background: url('../img/hipster-stuff.jpg') center center repeat fixed;
+    background-size: cover;
+    color: white;
+    padding: 140px 0;
+}
+
+#signup h2 {
+    font-weight: normal;
+}
+
+#signup h2 strong {
+    border-bottom: solid 2px #dd5638;
+}
+
+#signup .btn {
+    font-size: 24px;
+}
+
 /* CUSTOM ICON SPRITES */
 
 i.ci {
