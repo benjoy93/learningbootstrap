@@ -219,6 +219,10 @@ blockquote:before {
 
 /*LAYOUT */
 
+.row + .row {
+    margin-top: 20px;
+}
+
 section {
     padding: 80px 0;
 }
