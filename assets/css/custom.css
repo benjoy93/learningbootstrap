@@ -410,7 +410,8 @@ footer li.signup-link a:hover {
     border-radius: 4px;
 }
 
-.post-header  {
+.post-header,
+.post .post-body  {
     padding: 20px;
 }
 
